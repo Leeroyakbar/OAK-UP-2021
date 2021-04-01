@@ -17,6 +17,8 @@ Contains OAK Exercises
 **96**
 
 
+
+
 # Soal Nomor 2
 **Buatlah program untuk mengklasifikasikan kecepatan kendaraan sesuai rentang berikut:**
 
