@@ -15,3 +15,19 @@ Contains OAK Exercises
 **Contoh Keluaran**
 
 **96**
+
+
+# Soal Nomor 2
+**Buatlah program untuk mengklasifikasikan kecepatan kendaraan sesuai rentang berikut:**
+
+**1–30: lambat**
+**31–60: sedang**
+**melebihi 60: tilang**
+
+**Contoh Masukan**
+
+**50**
+
+**Contoh Keluaran**
+
+**sedang**
